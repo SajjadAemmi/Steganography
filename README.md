@@ -5,7 +5,7 @@
 
 Embedding stego-text in cover images using Least Significant Bits (LSB) technique written in C#. Insert hidden information in image's pixels and extract it later.
 
-![screenshot](Resources\screenshot.png)
+![screenshot](Resources/screenshot.png)
 
 
 ## How to use
